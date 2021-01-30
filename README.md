@@ -1,5 +1,2 @@
 # CV HTML & CSS only
-sIMPLE cv USing Html AND CSS ...It may be of help to others...
--------------------------------------------------------------------------------------------
-For any ideas concerning this i will be grateful to receive them...
--------------------------------------------------------------------------------------------
+ 
