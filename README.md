@@ -5,8 +5,9 @@ From **Home** :airplane: to the **World** !
 
 I'm [Emile](https://ekane3.github.io) ! Welcome here ! Actually a young Data lover :sparkling_heart: 
 
+* First of all, i'm still learning Algorithms and Data Structures.
 * I speak, read, write fluently both french and english and just basics in German.
-* I’m currently learning some Technologies around Big Data area.
+* Deep diving into some new Technos around Big Data & Machine Learning area.
 * I play games at my lost hours.
 * 💬 Ask me about anything [here](https://github.com/ekane3/ekane3.github.io/issues)
 
