@@ -1,9 +1,9 @@
-## :rocket:An upcoming Data Engineer in the Building
+## :rocket:A Data Engineer in the Building
 From **Home** :airplane: to the **World** !
 
 ## Hi U :sparkles:
 
-I'm [Emile](https://ekane3.github.io) ! Welcome here ! Actually a young Data lover :sparkling_heart: 
+I'm [Emile](https://ekane3.github.io) ! Welcome here ! :sparkling_heart: 
 
 * First of all, i'm still learning Algorithms and Data Structures.
 * I speak, read, write fluently both french and english and just basics in German.
